@@ -8,16 +8,26 @@
   --bg: #fbf6f2;
   --surface: #ffffff;
   --surface-soft: #f4cfba;
+
   --rose: #cc7a5e;
   --rose-light: #f4cfba;
   --gray-soft: #d5dadb;
+
   --green: #5a7577;
   --green-dark: #3f585a;
+
   --text: #2f3f40;
   --muted: #6f7372;
+
   --line: rgba(90, 117, 119, 0.18);
   --shadow: 0 22px 60px rgba(90, 117, 119, 0.10);
   --radius: 26px;
+
+  /* Compatibilidade com o CSS antigo */
+  --taupe: #5a7577;
+  --taupe-dark: #3f585a;
+  --gold: #cc7a5e;
+  --rose-2: #f4cfba;
 }
 
 html {
