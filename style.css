@@ -5,18 +5,19 @@
 }
 
 :root {
-  --bg: #f7f2ed;
+  --bg: #fbf6f2;
   --surface: #ffffff;
-  --surface-soft: #fbf7f3;
-  --nude: #e8d8ce;
-  --taupe: #a89284;
-  --taupe-dark: #7d675b;
-  --gold: #c7a27a;
-  --text: #3b332e;
-  --muted: #7b6c63;
-  --border: rgba(168, 146, 132, 0.18);
-  --shadow: 0 20px 50px rgba(61, 49, 43, 0.08);
-  --radius: 24px;
+  --surface-soft: #f4cfba;
+  --rose: #cc7a5e;
+  --rose-light: #f4cfba;
+  --gray-soft: #d5dadb;
+  --green: #5a7577;
+  --green-dark: #3f585a;
+  --text: #2f3f40;
+  --muted: #6f7372;
+  --line: rgba(90, 117, 119, 0.18);
+  --shadow: 0 22px 60px rgba(90, 117, 119, 0.10);
+  --radius: 26px;
 }
 
 html {
@@ -118,9 +119,13 @@ a {
 }
 
 .btn-primary {
-  background: linear-gradient(135deg, var(--taupe), var(--gold));
-  color: white;
-  box-shadow: 0 16px 34px rgba(168, 146, 132, 0.24);
+  background: var(--rose);
+  color: #ffffff;
+  box-shadow: 0 16px 34px rgba(204, 122, 94, 0.24);
+}
+
+.btn-primary:hover {
+  background: #b96950;
 }
 
 .btn-secondary {
@@ -167,8 +172,8 @@ a {
 h1,
 h2,
 h3 {
-  color: var(--text);
-  line-height: 1.15;
+  color: var(--green-dark);
+  line-height: 1.12;
 }
 
 h1 {
@@ -242,11 +247,12 @@ h3 {
 }
 
 .hero-highlight {
-  border-radius: 24px;
-  padding: 24px;
-  background: linear-gradient(135deg, #ffffff, #f5ece5);
-  color: var(--text);
-  font-weight: 700;
+  background: var(--rose);
+  color: white;
+  border-radius: 26px;
+  padding: 24px 28px;
+  font-weight: 600;
+  box-shadow: 0 18px 42px rgba(204, 122, 94, 0.18);
 }
 
 .section {
