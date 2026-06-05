@@ -725,7 +725,7 @@ h3 {
   width: 100% !important;
   height: 150px !important;
   object-fit: cover !important;
-  object-position: center 72% !important;
+  object-position: center 80% !important;
   display: block !important;
   border-radius: 18px !important;
 }
