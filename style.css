@@ -590,12 +590,12 @@ h3 {
 }
 
 .brand-logo {
-  width: 200px;
+  width: 180px;
   height: auto;
   object-fit: contain;
   display: block;
+  background: transparent;
 }
-/* Logo transparente no cabeçalho */
 
 .brand {
   display: flex;
