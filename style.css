@@ -548,7 +548,7 @@ h3 {
   margin: 0;
 }
 .brand-logo {
-  width: 120px;
+  width: 165px;
   height: auto;
   object-fit: contain;
   display: block;
@@ -594,4 +594,47 @@ h3 {
   height: auto;
   object-fit: contain;
   display: block;
+}
+/* Logo transparente no cabeçalho */
+
+.brand {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.brand-logo {
+  width: 165px;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}/* Cabeçalho com fundo nude da identidade */
+
+.header {
+  background: #c1ae9f !important;
+  border-bottom: none;
+}
+
+.nav {
+  min-height: 88px;
+}
+
+.menu a {
+  color: #ffffff !important;
+  font-weight: 700;
+}
+
+.menu a:hover {
+  color: #f6f1ec !important;
+}
+
+.menu a::after {
+  background: #ffffff !important;
+}
+
+.btn-outline {
+  background: #ffffff !important;
+  color: #5a7577 !important;
+  border: 1.5px solid #ffffff !important;
+  font-weight: 800;
 }
