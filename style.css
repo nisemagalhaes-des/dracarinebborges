@@ -553,3 +553,45 @@ h3 {
   object-fit: contain;
   display: block;
 }
+/* Ajuste do cabeçalho com a identidade da logo */
+
+.header {
+  background: #c1ae9f !important;
+  border-bottom: none;
+}
+
+.nav {
+  min-height: 96px;
+}
+
+.menu a {
+  color: #ffffff !important;
+  font-weight: 700;
+}
+
+.menu a:hover {
+  color: #f4cfba !important;
+}
+
+.menu a::after {
+  background: #ffffff !important;
+}
+
+.btn-outline {
+  background: #ffffff !important;
+  color: #5a7577 !important;
+  border: 1.5px solid #ffffff !important;
+  font-weight: 800;
+}
+
+.btn-outline:hover {
+  background: #f6f1ec !important;
+  color: #3f585a !important;
+}
+
+.brand-logo {
+  width: 120px;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
