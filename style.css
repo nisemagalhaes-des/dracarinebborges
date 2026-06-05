@@ -690,5 +690,35 @@ h3 {
     height: 170px;
   }
 }
+.foto-mandibula {
+  object-position: center 74%;
+}
 
+.foto-estalos {
+  object-position: center 72%;
+}
+
+.foto-travamento {
+  object-position: center 73%;
+}
+
+.foto-bruxismo {
+  object-position: center 70%;
+}
+
+.foto-cabeca {
+  object-position: center 45%;
+}
+
+.foto-ouvido {
+  object-position: center 72%;
+}
+
+.foto-cansaco {
+  object-position: center 70%;
+}
+
+.foto-tensao {
+  object-position: center 55%;
+}
 
