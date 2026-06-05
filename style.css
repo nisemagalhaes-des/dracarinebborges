@@ -561,7 +561,7 @@ h3 {
 }
 
 .nav {
-  min-height: 96px;
+  min-height: 82px;
 }
 
 .menu a {
@@ -590,7 +590,7 @@ h3 {
 }
 
 .brand-logo {
-  width: 180px;
+  width: 200px;
   height: auto;
   object-fit: contain;
   display: block;
