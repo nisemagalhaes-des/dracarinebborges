@@ -13,8 +13,8 @@
   --rose-light: #f4cfba;
   --gray-soft: #d5dadb;
 
-  --green: #5a7577;
-  --green-dark: #3f585a;
+--green: #809671;
+--green-dark: #6f835f;
 
   --text: #2f3f40;
   --muted: #6f7372;
@@ -24,8 +24,8 @@
   --radius: 26px;
 
   /* Compatibilidade com o CSS antigo */
-  --taupe: #5a7577;
-  --taupe-dark: #3f585a;
+ --taupe: #809671;
+--taupe-dark: #6f835f;
   --gold: #cc7a5e;
   --rose-2: #f4cfba;
 }
@@ -579,14 +579,14 @@ h3 {
 
 .btn-outline {
   background: #ffffff !important;
-  color: #5a7577 !important;
+  color: #809671 !important;
   border: 1.5px solid #ffffff !important;
   font-weight: 800;
 }
 
 .btn-outline:hover {
   background: #f6f1ec !important;
-  color: #3f585a !important;
+  color:#6f835f !important;
 }
 
 .brand-logo {
