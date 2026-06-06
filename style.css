@@ -719,13 +719,4 @@ h3 {
 .foto-tensao {
   object-position: center 55%;
 }
-/* Ajuste de enquadramento das imagens dos sintomas em faixa */
 
-.symptom-photo {
-  width: 100% !important;
-  height: 150px !important;
-  object-fit: cover !important;
-  object-position: center 65% !important;
-  display: block !important;
-  border-radius: 18px !important;
-}
