@@ -750,22 +750,22 @@ h3 {
   margin-bottom: 16px !important;
 }
 
-/* Ajuste fino do foco das imagens dos sintomas */
+/* Ajuste intermediário do foco das imagens dos sintomas */
 
 .foto-mandibula {
-  object-position: center 28% !important;
+  object-position: center 38% !important;
 }
 
 .foto-estalos {
-  object-position: center 29% !important;
+  object-position: center 39% !important;
 }
 
 .foto-travamento {
-  object-position: center 30% !important;
+  object-position: center 40% !important;
 }
 
 .foto-bruxismo {
-  object-position: center 30% !important;
+  object-position: center 40% !important;
 }
 
 .foto-cabeca {
@@ -773,13 +773,13 @@ h3 {
 }
 
 .foto-ouvido {
-  object-position: center 29% !important;
+  object-position: center 39% !important;
 }
 
 .foto-cansaco {
-  object-position: center 30% !important;
+  object-position: center 40% !important;
 }
 
 .foto-tensao {
-  object-position: center 28% !important;
+  object-position: center 38% !important;
 }
