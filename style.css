@@ -739,34 +739,46 @@ h3 {
   margin-bottom: 16px !important;
 }
 
+/* Ajuste final do enquadramento das fotos em faixa */
+
+.symptom-photo {
+  width: 100% !important;
+  height: 190px !important;
+  object-fit: cover !important;
+  border-radius: 18px !important;
+  display: block !important;
+  margin-bottom: 16px !important;
+}
+
+/* Ajustes individuais */
 .foto-mandibula {
-  object-position: center 55% !important;
+  object-position: center 40% !important;
 }
 
 .foto-estalos {
-  object-position: center 54% !important;
+  object-position: center 42% !important;
 }
 
 .foto-travamento {
-  object-position: center 56% !important;
+  object-position: center 43% !important;
 }
 
 .foto-bruxismo {
-  object-position: center 52% !important;
+  object-position: center 40% !important;
 }
 
 .foto-cabeca {
-  object-position: center 12% !important;
+  object-position: center 18% !important;
 }
 
 .foto-ouvido {
-  object-position: center 55% !important;
+  object-position: center 42% !important;
 }
 
 .foto-cansaco {
-  object-position: center 56% !important;
+  object-position: center 44% !important;
 }
 
 .foto-tensao {
-  object-position: center 48% !important;
+  object-position: center 35% !important;
 }
