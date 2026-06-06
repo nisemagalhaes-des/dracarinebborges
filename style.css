@@ -719,4 +719,54 @@ h3 {
 .foto-tensao {
   object-position: center 100%;
 }
+/* Ajuste final das imagens dos sintomas em faixa */
 
+.symptom-card {
+  background: #ffffff !important;
+  border-radius: 24px !important;
+  padding: 18px !important;
+  box-shadow: 0 8px 24px rgba(90, 117, 119, 0.08) !important;
+  overflow: hidden !important;
+  margin-bottom: 26px !important;
+}
+
+.symptom-photo {
+  width: 100% !important;
+  height: 170px !important;
+  object-fit: cover !important;
+  border-radius: 18px !important;
+  display: block !important;
+  margin-bottom: 16px !important;
+}
+
+.foto-mandibula {
+  object-position: center 78% !important;
+}
+
+.foto-estalos {
+  object-position: center 76% !important;
+}
+
+.foto-travamento {
+  object-position: center 78% !important;
+}
+
+.foto-bruxismo {
+  object-position: center 72% !important;
+}
+
+.foto-cabeca {
+  object-position: center 18% !important;
+}
+
+.foto-ouvido {
+  object-position: center 74% !important;
+}
+
+.foto-cansaco {
+  object-position: center 76% !important;
+}
+
+.foto-tensao {
+  object-position: center 70% !important;
+}
